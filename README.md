@@ -1,4 +1,4 @@
-# sobre mim
+# Sobre mim
 Oi, eu sou o Arthur
 
 Meu email para entrar em contato é arthur.henrique.santos@escola.pr.gov.br
